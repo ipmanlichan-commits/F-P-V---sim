@@ -1,0 +1,6 @@
+{
+  "name": "НСУ FPV Трекер",
+  "description": "Симулятор оператора поворотного трекера антенны FPV и 3D калькулятор наведения с расчетом кривизны Земли, диаграммы направленности и RSSI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
